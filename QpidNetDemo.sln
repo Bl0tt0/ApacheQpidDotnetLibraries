@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QpidNetDemo", "QpidNetDemo\QpidNetDemo.csproj", "{D611AA5C-8003-4D34-B789-111AC79DD2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QpidNetDemo.Connection", "QpidNetDemo.Connection\QpidNetDemo.Connection.csproj", "{1266D600-90FB-4E25-AAB4-4AAD49D57016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QpidNetDemo.Connection.ApacheQpid", "QpidNetDemo.Connection.ApacheQpid\QpidNetDemo.Connection.ApacheQpid.csproj", "{0E92AD61-717D-4B7A-8967-A1D300CC13E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D611AA5C-8003-4D34-B789-111AC79DD2CF}.Release|x86.ActiveCfg = Release|Any CPU
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Debug|x86.ActiveCfg = Debug|x86
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Debug|x86.Build.0 = Debug|x86
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Release|x86.ActiveCfg = Release|x86
+		{1266D600-90FB-4E25-AAB4-4AAD49D57016}.Release|x86.Build.0 = Release|x86
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Debug|x86.ActiveCfg = Debug|x86
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Debug|x86.Build.0 = Debug|x86
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Release|x86.ActiveCfg = Release|x86
+		{0E92AD61-717D-4B7A-8967-A1D300CC13E4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
